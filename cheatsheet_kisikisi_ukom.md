@@ -1,4 +1,4 @@
-# 🎯 CHEATSHEET UKOM PENTESTER — SESUAI KISI-KISI RESMI
+# 🎯 CHEATSHEET UKOM PENTESTER 
 ## Dipetakan 1:1 ke 6 Unit Kompetensi yang Dipraktikkan Asesi
 
 > Sumber: `Kisi_Kisi_Praktik_Uji_Kompetensi.pdf` (Pusat Pengembangan SDM — BSSN)
